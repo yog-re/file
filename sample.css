@@ -1,0 +1,15 @@
+html {
+}
+
+body{
+
+}
+.title {
+    color: white;
+    font-size: 36px;
+    background-color: black;
+    margin: 10px;
+}
+a:hover {
+    color: red;
+}
